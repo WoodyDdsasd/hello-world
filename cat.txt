@@ -1,3 +1,4 @@
 this is a cat.
 add a newline.
 add a newline two.
+add a newline three.
